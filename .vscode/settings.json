@@ -1,0 +1,6 @@
+{
+    "python.defaultInterpreterPath": "c:\\users\\marek\\.pyenv\\pyenv-win\\versions\\3.9.6\\python.exe",
+    "python.analysis.extraPaths": [],
+    "python.languageServer": "Pylance",
+    "jupyter.notebookFileRoot": "${workspaceFolder}"
+}
